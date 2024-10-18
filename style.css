@@ -1,0 +1,19 @@
+*{
+    font-size: 15px;
+    font-weight: 500;
+}
+h3{
+    color: blueviolet;
+}
+h4{
+    color: blanchedalmond;
+}
+.myclass{
+    color: aquamarine;
+}
+#myid{
+    color: rgb(157, 118, 184);
+}
+h5,p{
+    color: green;
+}
